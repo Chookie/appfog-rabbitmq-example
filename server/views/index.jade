@@ -1,0 +1,11 @@
+doctype html
+html(lang="en")
+    head
+        title= title
+        link(rel='stylesheet', href='/css/site.css')
+    body
+        h1= title
+        h3 The connection status is currently:
+        p= connectionStatus
+        p= exchangeStatus
+        p= queueStatus

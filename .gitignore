@@ -1,0 +1,7 @@
+.idea/**
+node_modules/**
+*.iml
+public/**/*.html
+public/**/*.css
+public/vendor/**
+server/**/*.html
