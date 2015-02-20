@@ -1,3 +1,5 @@
+// From https://blog.appfog.com/tutorial-rabbitmq-node-js-on-appfog/
+
 var express = require('express'),
     //path = require('path'),
     //amqp = require('amqp'),
